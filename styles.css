@@ -1,0 +1,50 @@
+body{
+    background-image: url(iya.jpg);
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#judul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin: 0;
+    font-size: 20pt;
+    background-color: #C1F4C5;
+}
+table{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#jdl{
+    color: aqua;
+    text-align: center;
+}
+#member{
+    width: 100px;
+    display: inline-block;
+}
+#mnama{
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#malamat{
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+.left-div{
+    width: 100px;
+    display: inline-block;
+}
+.right-div{
+    display: inline-block;
+}
